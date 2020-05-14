@@ -6,5 +6,5 @@ def moveTower(disc,fromPole, toPole, withPole):
 
 def moveDisk(fp,tp):
     print("moving disk from",fp,"to",tp)
-
-moveTower(4,"A","B","C")
+if__name__=='__main__':
+    moveTower(4,"A","B","C")
